@@ -1,0 +1,61 @@
+# NoisyCell – Last Theater
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.75] I'm not gonna make it
+[00:05.51] Is it almost over now?
+[00:08.68] Can't see the way
+[00:11.82] Run down
+[00:39.69] I can't understand how this chain reaction
+[00:45.93] Has brought me to the edge I'm looking down
+[00:51.92] One more step would it make me free?
+[00:58.27] I could fall into the darkness
+[01:01.59] Realize that I'm just so afraid
+[01:07.90] "I don't want to destroy life"
+[01:17.11] Remember...
+[01:20.32] "I know you want to"
+[01:26.62] "It's alright"
+[01:29.60] Remember...
+[01:40.59] I'm not gonna make it
+[01:44.86] Is it almost over now?
+[01:48.06] Can't see the way to go
+[01:53.74] I feel so alone
+[01:57.21] My blood is on the ground
+[02:00.37] This time I lost control
+[02:06.41] I gave up my thoughts
+[02:09.42] Lived just by reaction
+[02:12.74] Made nothing but a fake, empty escape
+[02:18.54] "Be true to yourself"
+[02:21.81] I've heard enough of that
+[02:25.05] I know if I remember
+[02:28.29] I'll find the good
+[02:30.63] I don't care
+[02:56.36] "I don't want to destroy life"
+[03:04.95] Remember...
+[03:08.49] "I know you want to" (I don't know)
+[03:14.52] "It's alright" (It's not alright)
+[03:17.86] Remember... (You think you know?)
+[03:20.07] I still believe
+[03:25.95] I still believe in myself
+[03:45.66] I'm not gonna make it
+[03:49.50] Is it almost over now?
+[03:52.97] Can't see the way to go
+[03:58.53] I feel so alone
+[04:01.70] My blood is on the ground
+[04:05.07] I can't forgive this anymore
+[04:10.15] I just wanna make it
+[04:14.02] If it's almost over now
+[04:17.40] Can't see the way to go
+[04:22.95] I feel so alone
+[04:26.41] My blood is on the ground
+[04:29.67] I can't forgive this anymore
+[04:36.02] Who chooses what is right?
+[04:38.56] No one can begin to say
+[04:41.98] So will you turn around
+[04:45.10] Or will you fade away?
+[04:48.27] My heart is crying out
+[04:51.30] I may never see
+[04:54.64] But still I have to go
+[04:58.91] I have to go
+```
