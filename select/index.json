@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Last Theater",
+  "base_artist": "NoisyCell",
+  "createdAt": "2026-02-14T01:07:45.845419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Theater",
+      "artist": "Noisycell",
+      "has_synced": true,
+      "path": "select/01_Last_Theater_Noisycell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Theater (Explicit)",
+      "artist": "Noisycell",
+      "has_synced": true,
+      "path": "select/02_Last_Theater_(Explicit)_Noisycell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "last theater",
+      "artist": "noisycell",
+      "has_synced": true,
+      "path": "select/03_last_theater_noisycell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Theater (From \"Death Parade\")",
+      "artist": "Dima Lancaster",
+      "has_synced": false,
+      "path": "select/04_Last_Theater_(From__Death_Parade_)_Dima_Lancaster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Theater",
+      "artist": "Noisy cell",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Theater_Noisy_cell.txt"
+    }
+  ]
+}
